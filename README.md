@@ -6,6 +6,6 @@ Block and components
 
 ###
 
-<img src="https://raw.githubusercontent.com/my-skills-app/my-skills-app/output/snake.svg" alt="Snake animation" />
+<img src="asist/snake.svg" alt="Snake animation" />
 
 ###
