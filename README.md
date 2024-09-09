@@ -5,7 +5,11 @@ Block and components
 </div>
 
 ###
+<div aling="center">
 
-<img src="asist/snake.svg" alt="Snake animation" />
+
+ <img src="asist/snake.svg" alt="Snake animation" /> 
+</div>
+
 
 ###
