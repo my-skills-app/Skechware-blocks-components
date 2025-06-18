@@ -1,26 +1,14 @@
 [
   {
+    "course_name": "Kod's Prerequisites ",
+    "author": "Sheryians coding school",
+    "course_url": "https://raw.githubusercontent.com/my-skills-app/Skechware-blocks-components/refs/heads/main/Shreyans_coding_school",
+    "thumbnail": "https://ik.imagekit.io/sheryians/courses_gif/Front-End_Domination__Create_Anything_with_Code-FRONTENDTHUBNAIL_Wf8WqcNJx.jpg"
+  },
+  {
     "course_name": "60 Days Spoken English Course",
     "author": "Kamlesh Yadav Sir",
     "course_url": "https://raw.githubusercontent.com/my-skills-app/Skechware-blocks-components/refs/heads/main/Spoken_English_class.json",
     "thumbnail": "https://i.ytimg.com/vi/OnSUWIyQqIc/maxresdefault.jpg"
-  },
-  {
-    "course_name": "45 Days Alpha Spoken English Course",
-    "author": "Kamlesh Yadav Sir",
-    "course_url": "https://youtube.com/playlist?list=PLAX41TUzaphBhF8nx8dp1aOrYvjUCcgBF",
-    "thumbnail": "https://i.ytimg.com/vi/TxFCpzIOh7Y/maxresdefault.jpg"
-  },
-  {
-    "course_name": "Fastest 50 Days Spoken English Course",
-    "author": "Kamlesh Yadav Sir",
-    "course_url": "https://youtube.com/playlist?list=PLAX41TUzaphD-OBS2zbfg9qQzBKnjqxBb",
-    "thumbnail": "https://i.ytimg.com/vi/IhUhynyMaJo/maxresdefault.jpg"
-  },
-  {
-    "course_name": "Mass English Grammar Crash Course",
-    "author": "Ghasiram Sir",
-    "course_url": "https://youtube.com/@englishwithghasiram",
-    "thumbnail": "https://i.ytimg.com/vi/HhXQ7af4r-I/maxresdefault.jpg"
   }
 ]
