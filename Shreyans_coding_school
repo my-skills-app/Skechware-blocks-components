@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Web Development Course | Frontend | Level 1",
+    "thumbnail": "https://i.ytimg.com/vi/9cmy6AK3IBA/maxresdefault.jpg",
+    "channel_name": "Sheryians Coding School",
+    "video_url": "https://www.youtube.com/watch?v=9cmy6AK3IBA"
+  },
+  {
+    "title": "Learn HTML, CSS and JavaScript in Single Video | Basics of MERN Stack Development",
+    "thumbnail": "https://i.ytimg.com/vi/kkOuRJ69BRY/maxresdefault.jpg",
+    "channel_name": "Sheryians Coding School",
+    "video_url": "https://www.youtube.com/watch?v=kkOuRJ69BRY"
+  },
+  {
+    "title": "JavaScript Crash Course: Master the Basics in One Video! Ignite Your Front-End Mastery Series!",
+    "thumbnail": "https://i.ytimg.com/vi/htznIeWKgg8/maxresdefault.jpg",
+    "channel_name": "Sheryians Coding School",
+    "video_url": "https://www.youtube.com/watch?v=htznIeWKgg8"
+  },
+  {
+    "title": "JavaScript Advance Crash Course: Level Up Your Coding Skills! Accelerate Your Front-End Mastery!",
+    "thumbnail": "https://i.ytimg.com/vi/EgDmCbhmstU/maxresdefault.jpg",
+    "channel_name": "Sheryians Coding School",
+    "video_url": "https://www.youtube.com/watch?v=EgDmCbhmstU"
+  },
+  {
+    "title": "Master Advanced JavaScript Concepts and Become a JavaScript Ninja",
+    "thumbnail": "https://i.ytimg.com/vi/ks4MFTHLfyg/maxresdefault.jpg",
+    "channel_name": "Sheryians Coding School",
+    "video_url": "https://www.youtube.com/watch?v=ks4MFTHLfyg"
+  },
+  {
+    "title": "JavaScript DOM Manipulation: How to DOMinate the DOM with JavaScript",
+    "thumbnail": "https://i.ytimg.com/vi/2IPEp_4obGw/maxresdefault.jpg",
+    "channel_name": "Sheryians Coding School",
+    "video_url": "https://www.youtube.com/watch?v=2IPEp_4obGw"
+  },
+  {
+    "title": "5 Real-Life JavaScript Effects and Features That Reign Supreme!",
+    "thumbnail": "https://i.ytimg.com/vi/_7IR39vOKfU/maxresdefault.jpg",
+    "channel_name": "Sheryians Coding School",
+    "video_url": "https://www.youtube.com/watch?v=_7IR39vOKfU"
+  },
+  {
+    "title": "Web Development Course | Part 2 | Level 2",
+    "thumbnail": "https://i.ytimg.com/vi/_rmSp20X4wo/maxresdefault.jpg",
+    "channel_name": "Sheryians Coding School",
+    "video_url": "https://www.youtube.com/watch?v=_rmSp20X4wo"
+  },
+  {
+    "title": "Complete React JS Course | MERN Stack Development",
+    "thumbnail": "https://i.ytimg.com/vi/E6tAtRi82QY/sddefault.jpg",
+    "channel_name": "Sheryians Coding School",
+    "video_url": "https://www.youtube.com/watch?v=E6tAtRi82QY"
+  },
+  {
+    "title": "Learn Backend Development in 4 Hours | Backend Web Development Full Course",
+    "thumbnail": "https://i.ytimg.com/vi/Q-icS7yZz5k/maxresdefault.jpg",
+    "channel_name": "Sheryians Coding School",
+    "video_url": "https://www.youtube.com/watch?v=Q-icS7yZz5k"
+  }
+]
