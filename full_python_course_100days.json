@@ -1,0 +1,602 @@
+[
+  {
+    "title": "Introduction to Programming & Python | Python Tutorial - Day #1",
+    "thumbnail": "https://i.ytimg.com/vi/7wnove7K-ZQ/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=7wnove7K-ZQ"
+  },
+  {
+    "title": "Some Amazing Python Programs - The Power of Python | Python Tutorial - Day #2",
+    "thumbnail": "https://i.ytimg.com/vi/Tto8TS-fJQU/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=Tto8TS-fJQU"
+  },
+  {
+    "title": "Modules and Pip | Python Tutorial - Day #3",
+    "thumbnail": "https://i.ytimg.com/vi/xwKO_y2gHxQ/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=xwKO_y2gHxQ"
+  },
+  {
+    "title": "Our First Python Program | Python Tutorial - Day #4",
+    "thumbnail": "https://i.ytimg.com/vi/7IWOYhfAcVg/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=7IWOYhfAcVg"
+  },
+  {
+    "title": "Comments, Escape Sequences & Print Statement | Python Tutorial - Day #5",
+    "thumbnail": "https://i.ytimg.com/vi/qxPMmW93eDs/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=qxPMmW93eDs"
+  },
+  {
+    "title": "Variables and Data Types | Python Tutorial - Day #6",
+    "thumbnail": "https://i.ytimg.com/vi/ORCuz7s5cCY/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=ORCuz7s5cCY"
+  },
+  {
+    "title": "Exercise 1: Calculator using Python | Python Tutorial - Day #7",
+    "thumbnail": "https://i.ytimg.com/vi/FLVqcxnJP_E/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=FLVqcxnJP_E"
+  },
+  {
+    "title": "Exercise 1: Calculator using Python (Solution) | Python Tutorial - Day #8",
+    "thumbnail": "https://i.ytimg.com/vi/dohaSBCKCr0/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=dohaSBCKCr0"
+  },
+  {
+    "title": "Typecasting in Python | Python Tutorial - Day #9",
+    "thumbnail": "https://i.ytimg.com/vi/Pu5bqySSSS0/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=Pu5bqySSSS0"
+  },
+  {
+    "title": "Taking User Input in Python | Python Tutorial - Day #10",
+    "thumbnail": "https://i.ytimg.com/vi/WvG-R-xXouA/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=WvG-R-xXouA"
+  },
+  {
+    "title": "Strings in Python | Python Tutorial - Day #11",
+    "thumbnail": "https://i.ytimg.com/vi/kMNFQYArrLg/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=kMNFQYArrLg"
+  },
+  {
+    "title": "Strings Slicing and Operations on Strings in Python | Python Tutorial - Day #12",
+    "thumbnail": "https://i.ytimg.com/vi/8jW7lpT8HW8/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=8jW7lpT8HW8"
+  },
+  {
+    "title": "String Methods in Python | Python Tutorial - Day #13",
+    "thumbnail": "https://i.ytimg.com/vi/0INvoK_T0cE/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=0INvoK_T0cE"
+  },
+  {
+    "title": "If Else Conditional Statements in Python | Python Tutorial - Day #14",
+    "thumbnail": "https://i.ytimg.com/vi/ceiuLR2ysas/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=ceiuLR2ysas"
+  },
+  {
+    "title": "Exercise 2: Good Morning Sir | Python Tutorial - Day #15",
+    "thumbnail": "https://i.ytimg.com/vi/d7ng_aV4qdI/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=d7ng_aV4qdI"
+  },
+  {
+    "title": "Match Case Statements in Python | Python Tutorial - Day #16",
+    "thumbnail": "https://i.ytimg.com/vi/bthQCK1QAmQ/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=bthQCK1QAmQ"
+  },
+  {
+    "title": "For Loops in Python | Python Tutorial - Day #17",
+    "thumbnail": "https://i.ytimg.com/vi/fIYVzKp0q5w/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=fIYVzKp0q5w"
+  },
+  {
+    "title": "While Loops in Python | Python Tutorial - Day #18",
+    "thumbnail": "https://i.ytimg.com/vi/-tCFyIyKVx0/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=-tCFyIyKVx0"
+  },
+  {
+    "title": "break and continue in Python | Python Tutorial - Day #19",
+    "thumbnail": "https://i.ytimg.com/vi/RkwJnjdrm70/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=RkwJnjdrm70"
+  },
+  {
+    "title": "Functions in Python | Python Tutorial - Day #20",
+    "thumbnail": "https://i.ytimg.com/vi/dyvxxJSGUsE/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=dyvxxJSGUsE"
+  },
+  {
+    "title": "Function Arguments in Python | Python Tutorial - Day #21",
+    "thumbnail": "https://i.ytimg.com/vi/0d6b6fFuCkE/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=0d6b6fFuCkE"
+  },
+  {
+    "title": "Introduction to Lists in Python | Python Tutorial - Day #22",
+    "thumbnail": "https://i.ytimg.com/vi/eF6nK5bSlmg/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=eF6nK5bSlmg"
+  },
+  {
+    "title": "List Methods in Python | Python Tutorial - Day #23",
+    "thumbnail": "https://i.ytimg.com/vi/scWc3F8LbOo/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=scWc3F8LbOo"
+  },
+  {
+    "title": "Tuples in Python | Python Tutorial - Day #24",
+    "thumbnail": "https://i.ytimg.com/vi/PipsOUDKrVk/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=PipsOUDKrVk"
+  },
+  {
+    "title": "Operations on Tuples in Python | Python Tutorial - Day #25",
+    "thumbnail": "https://i.ytimg.com/vi/XblLSduioJI/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=XblLSduioJI"
+  },
+  {
+    "title": "Exercise 2: Solution & Shoutouts | Python Tutorial - Day #26",
+    "thumbnail": "https://i.ytimg.com/vi/IZBKXWrbqBM/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=IZBKXWrbqBM"
+  },
+  {
+    "title": "Exercise 3: Kaun Banega Crorepati (KBC) | Python Tutorial - Day #27",
+    "thumbnail": "https://i.ytimg.com/vi/Vs1Z7K70Mvw/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=Vs1Z7K70Mvw"
+  },
+  {
+    "title": "f-strings in Python | Python Tutorial - Day #28",
+    "thumbnail": "https://i.ytimg.com/vi/ixmxgUf8yIg/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=ixmxgUf8yIg"
+  },
+  {
+    "title": "Docstrings in Python | Python Tutorial - Day #29",
+    "thumbnail": "https://i.ytimg.com/vi/SJzsNd7SM0g/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=SJzsNd7SM0g"
+  },
+  {
+    "title": "Recursion in Python | Python Tutorial - Day #30",
+    "thumbnail": "https://i.ytimg.com/vi/XYwJKFB8DUk/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=XYwJKFB8DUk"
+  },
+  {
+    "title": "Sets in Python | Python Tutorial - Day #31",
+    "thumbnail": "https://i.ytimg.com/vi/l3kCO8cVA6o/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=l3kCO8cVA6o"
+  },
+  {
+    "title": "Set Methods in Python | Python Tutorial - Day #32",
+    "thumbnail": "https://i.ytimg.com/vi/HOrutCnp2zo/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=HOrutCnp2zo"
+  },
+  {
+    "title": "Dictionaries in Python | Python Tutorial - Day #33",
+    "thumbnail": "https://i.ytimg.com/vi/j2G68uQtOwM/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=j2G68uQtOwM"
+  },
+  {
+    "title": "Dictionary Methods in Python | Python Tutorial - Day #34",
+    "thumbnail": "https://i.ytimg.com/vi/LmbFwaLjT9k/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=LmbFwaLjT9k"
+  },
+  {
+    "title": "for Loop with else in Python | Python Tutorial - Day #35",
+    "thumbnail": "https://i.ytimg.com/vi/qUkcIgErZzc/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=qUkcIgErZzc"
+  },
+  {
+    "title": "Exception Handling in Python | Python Tutorial - Day #36",
+    "thumbnail": "https://i.ytimg.com/vi/4LKo6dlku7M/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=4LKo6dlku7M"
+  },
+  {
+    "title": "Finally keyword in Python | Python Tutorial - Day #37",
+    "thumbnail": "https://i.ytimg.com/vi/r_iuC-IDpPM/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=r_iuC-IDpPM"
+  },
+  {
+    "title": "Raising custom errors in Python | Python Tutorial - Day #38",
+    "thumbnail": "https://i.ytimg.com/vi/Phr4CNppYoM/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=Phr4CNppYoM"
+  },
+  {
+    "title": "Kaun Banega Crorepati: Exercise 3 - Solution & Shoutouts | Python Tutorial - Day #39",
+    "thumbnail": "https://i.ytimg.com/vi/nyfeYAxP-EM/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=nyfeYAxP-EM"
+  },
+  {
+    "title": "Exercise 4: Secret Code Language | Python Tutorial - Day #40",
+    "thumbnail": "https://i.ytimg.com/vi/pOWJ6WgVRIU/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=pOWJ6WgVRIU"
+  },
+  {
+    "title": "Short hand if else statements | Python Tutorial - Day #41",
+    "thumbnail": "https://i.ytimg.com/vi/Qqx_zNmQVGI/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=Qqx_zNmQVGI"
+  },
+  {
+    "title": "Enumerate Function in Python | Python Tutorial - Day #42",
+    "thumbnail": "https://i.ytimg.com/vi/kGnYc_h1geM/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=kGnYc_h1geM"
+  },
+  {
+    "title": "Virtual Environment in Python | Python Tutorial - Day #43",
+    "thumbnail": "https://i.ytimg.com/vi/nt6LlFTWOkg/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=nt6LlFTWOkg"
+  },
+  {
+    "title": "How import works in Python | Python Tutorial - Day #44",
+    "thumbnail": "https://i.ytimg.com/vi/Pr7UOr35NcI/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=Pr7UOr35NcI"
+  },
+  {
+    "title": "if __name__ == \"__main__\" in Python | Python Tutorial - Day #45",
+    "thumbnail": "https://i.ytimg.com/vi/y_CX2Rvitk8/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=y_CX2Rvitk8"
+  },
+  {
+    "title": "os Module in Python | Python Tutorial - Day #46",
+    "thumbnail": "https://i.ytimg.com/vi/dkVYSsL90Oo/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=dkVYSsL90Oo"
+  },
+  {
+    "title": "Exercise 4: Solutions and Shoutouts | Python Tutorial - Day #47",
+    "thumbnail": "https://i.ytimg.com/vi/4lSQfOJKn7U/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=4lSQfOJKn7U"
+  },
+  {
+    "title": "Local vs Global Variables in Python| Python Tutorial - Day #48",
+    "thumbnail": "https://i.ytimg.com/vi/RaG6GgcDt54/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=RaG6GgcDt54"
+  },
+  {
+    "title": "File IO in Python | Python Tutorial - Day #49",
+    "thumbnail": "https://i.ytimg.com/vi/eDBPlcWYses/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=eDBPlcWYses"
+  },
+  {
+    "title": "read(), readlines() and other methods | Python Tutorial - Day #50",
+    "thumbnail": "https://i.ytimg.com/vi/l1FsnQxET9U/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=l1FsnQxET9U"
+  },
+  {
+    "title": "seek(), tell() and other functions | Python Tutorial - Day #51",
+    "thumbnail": "https://i.ytimg.com/vi/PByYX-2l5Us/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=PByYX-2l5Us"
+  },
+  {
+    "title": "Lambda functions in Python | Python Tutorial - Day #52",
+    "thumbnail": "https://i.ytimg.com/vi/UfFWf-PXUqE/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=UfFWf-PXUqE"
+  },
+  {
+    "title": "Map, Filter and Reduce in Python | Python Tutorial - Day #53",
+    "thumbnail": "https://i.ytimg.com/vi/OErhjT4f5Cs/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=OErhjT4f5Cs"
+  },
+  {
+    "title": "'is' vs '==' in Python | Python Tutorial - Day #54",
+    "thumbnail": "https://i.ytimg.com/vi/TOemdfX_0xc/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=TOemdfX_0xc"
+  },
+  {
+    "title": "Exercise 5 - Snake Water Gun | Python Tutorial - Day #55",
+    "thumbnail": "https://i.ytimg.com/vi/dDsh7FT6-0I/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=dDsh7FT6-0I"
+  },
+  {
+    "title": "Introduction to OOPs in Python | Python Tutorial - Day #56",
+    "thumbnail": "https://i.ytimg.com/vi/HQnoYzxOHMw/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=HQnoYzxOHMw"
+  },
+  {
+    "title": "Classes and Objects in Python | Python Tutorial - Day #57",
+    "thumbnail": "https://i.ytimg.com/vi/a7baAGCBA9U/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=a7baAGCBA9U"
+  },
+  {
+    "title": "Constructors in Python | Python Tutorial - Day #58",
+    "thumbnail": "https://i.ytimg.com/vi/12HRkYld22c/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=12HRkYld22c"
+  },
+  {
+    "title": "Decorators in Python | Python Tutorial - Day #59",
+    "thumbnail": "https://i.ytimg.com/vi/PTBZ674EsvI/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=PTBZ674EsvI"
+  },
+  {
+    "title": "Getters and Setters in Python | Python Tutorial - Day #60",
+    "thumbnail": "https://i.ytimg.com/vi/2gbCT8h9uyk/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=2gbCT8h9uyk"
+  },
+  {
+    "title": "Inheritance in Python | Python Tutorial - Day #61",
+    "thumbnail": "https://i.ytimg.com/vi/-KsfUaQEY9Y/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=-KsfUaQEY9Y"
+  },
+  {
+    "title": "Access Modifiers in Python | Python Tutorial - Day #62",
+    "thumbnail": "https://i.ytimg.com/vi/43FK20rWvKQ/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=43FK20rWvKQ"
+  },
+  {
+    "title": "Snake Water Gun Game in Python - Exercise 5 - Solution | Python Tutorial - Day #63",
+    "thumbnail": "https://i.ytimg.com/vi/GkfBpm6MN9A/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=GkfBpm6MN9A"
+  },
+  {
+    "title": "Exercise 6 - Library Management System in Python | Python Tutorial - Day #64",
+    "thumbnail": "https://i.ytimg.com/vi/mlDZTSH2FFc/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=mlDZTSH2FFc"
+  },
+  {
+    "title": "Static Methods in Python | Python Tutorial - Day #65",
+    "thumbnail": "https://i.ytimg.com/vi/GcSVYNSsJxo/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=GcSVYNSsJxo"
+  },
+  {
+    "title": "Instance variables vs Class variables in Python | Python Tutorial - Day #66",
+    "thumbnail": "https://i.ytimg.com/vi/tQdaeiF4j38/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=tQdaeiF4j38"
+  },
+  {
+    "title": "Exercise 6 Solution - Library Management Software in Python | Python Tutorial - Day #67",
+    "thumbnail": "https://i.ytimg.com/vi/uRIEjf2vCIg/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=uRIEjf2vCIg"
+  },
+  {
+    "title": "Exercise 7 - Clear the Clutter | Python Tutorial - Day #68",
+    "thumbnail": "https://i.ytimg.com/vi/6KvnP13TnhY/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=6KvnP13TnhY"
+  },
+  {
+    "title": "Class Methods in Python | Python Tutorial - Day #69",
+    "thumbnail": "https://i.ytimg.com/vi/9ynmDLc5FYo/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=9ynmDLc5FYo"
+  },
+  {
+    "title": "Class Methods as Alternative Constructors in Python | Python Tutorial - Day #70",
+    "thumbnail": "https://i.ytimg.com/vi/FGlKJdy--p8/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=FGlKJdy--p8"
+  },
+  {
+    "title": "dir, __dict__ and help method in Python | Python Tutorial - Day #71",
+    "thumbnail": "https://i.ytimg.com/vi/Wgo9TaBcuJ4/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=Wgo9TaBcuJ4"
+  },
+  {
+    "title": "super keyword in Python | Python Tutorial - Day #72",
+    "thumbnail": "https://i.ytimg.com/vi/P648reefNh0/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=P648reefNh0"
+  },
+  {
+    "title": "Magic/Dunder Methods in Python | Python Tutorial - Day #73",
+    "thumbnail": "https://i.ytimg.com/vi/DmgQVJXhuLQ/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=DmgQVJXhuLQ"
+  },
+  {
+    "title": "Method Overriding in Python | Python Tutorial - Day #74",
+    "thumbnail": "https://i.ytimg.com/vi/46_yfYC36JY/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=46_yfYC36JY"
+  },
+  {
+    "title": "Exercise 7 Solution + Shoutouts | Python Tutorial - Day #75",
+    "thumbnail": "https://i.ytimg.com/vi/Wt9Shnzv_Yg/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=Wt9Shnzv_Yg"
+  },
+  {
+    "title": "Exercise 8 - Merge the PDF | Python Tutorial - Day #76",
+    "thumbnail": "https://i.ytimg.com/vi/uUbvJ7ZEhPE/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=uUbvJ7ZEhPE"
+  },
+  {
+    "title": "Operator Overloading in Python | Python Tutorial - Day #77",
+    "thumbnail": "https://i.ytimg.com/vi/D67-b2t-y4k/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=D67-b2t-y4k"
+  },
+  {
+    "title": "Single Inheritance in Python | Python Tutorial - Day #78",
+    "thumbnail": "https://i.ytimg.com/vi/U53_Gw55NI8/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=U53_Gw55NI8"
+  },
+  {
+    "title": "Multiple Inheritance in Python | Python Tutorial - Day #79",
+    "thumbnail": "https://i.ytimg.com/vi/4o7xSHgKlvI/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=4o7xSHgKlvI"
+  },
+  {
+    "title": "Multilevel Inheritance in Python | Python Tutorial - Day #80",
+    "thumbnail": "https://i.ytimg.com/vi/Il7XMJJeXiA/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=Il7XMJJeXiA"
+  },
+  {
+    "title": "Hybrid and Hierarchical Inheritance in Python | Python Tutorial - Day #81",
+    "thumbnail": "https://i.ytimg.com/vi/B4Q8zxRkm_I/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=B4Q8zxRkm_I"
+  },
+  {
+    "title": "Exercise 8 - Merge the Pdf Solution in Python | Python Tutorial - Day #82",
+    "thumbnail": "https://i.ytimg.com/vi/qKKGemhBRVM/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=qKKGemhBRVM"
+  },
+  {
+    "title": "Exercise 9 - Shoutouts to Everyone | Python Tutorial - Day #83",
+    "thumbnail": "https://i.ytimg.com/vi/1WjwnlRXfHc/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=1WjwnlRXfHc"
+  },
+  {
+    "title": "Time Module in Python | Python Tutorial - Day #84",
+    "thumbnail": "https://i.ytimg.com/vi/oTtIvV-Q1FY/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=oTtIvV-Q1FY"
+  },
+  {
+    "title": "Creating command line utility in python | Python Tutorial - Day #85",
+    "thumbnail": "https://i.ytimg.com/vi/3IAu6-pgw7I/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=3IAu6-pgw7I"
+  },
+  {
+    "title": "Walrus Operator in Python | Python Tutorial - Day #86",
+    "thumbnail": "https://i.ytimg.com/vi/NCmMEEyzLT8/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=NCmMEEyzLT8"
+  },
+  {
+    "title": "Shutil Module in Python | Python Tutorial - Day #87",
+    "thumbnail": "https://i.ytimg.com/vi/wII2JhNACJE/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=wII2JhNACJE"
+  },
+  {
+    "title": "Exercise 9: Solution - Shoutouts to Everyone | Python Tutorial - Day #88",
+    "thumbnail": "https://i.ytimg.com/vi/C9VP-56RXNM/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=C9VP-56RXNM"
+  },
+  {
+    "title": "Requests Module in Python | Python Tutorial - Day #89",
+    "thumbnail": "https://i.ytimg.com/vi/Nsb3bLIlO4w/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=Nsb3bLIlO4w"
+  },
+  {
+    "title": "Exercise 10: News App in Python | Python Tutorial - Day #90",
+    "thumbnail": "https://i.ytimg.com/vi/BGzFp9mwFQ4/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=BGzFp9mwFQ4"
+  },
+  {
+    "title": "Generators in Python | Python Tutorial - Day #91",
+    "thumbnail": "https://i.ytimg.com/vi/ixd-u3pmsUc/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=ixd-u3pmsUc"
+  },
+  {
+    "title": "Function Caching in Python | Python Tutorial - Day #92",
+    "thumbnail": "https://i.ytimg.com/vi/K8gjSwc3Rlo/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=K8gjSwc3Rlo"
+  },
+  {
+    "title": "Exercise 10 - News App Solution & Shoutout | Python Tutorial - Day #93",
+    "thumbnail": "https://i.ytimg.com/vi/bnAz7Kb2efE/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=bnAz7Kb2efE"
+  },
+  {
+    "title": "Exercise 11 - Drink Water Reminder | Python Tutorial - Day #94",
+    "thumbnail": "https://i.ytimg.com/vi/1i4piFhpnm8/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=1i4piFhpnm8"
+  },
+  {
+    "title": "Regular Expressions in Python | Python Tutorial - Day #95",
+    "thumbnail": "https://i.ytimg.com/vi/TCWOwavqFrw/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=TCWOwavqFrw"
+  },
+  {
+    "title": "AsyncIO in Python | Python Tutorial - Day #96",
+    "thumbnail": "https://i.ytimg.com/vi/lgoB3_-ejnI/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=lgoB3_-ejnI"
+  },
+  {
+    "title": "Multithreading in Python | Python Tutorial - Day #97",
+    "thumbnail": "https://i.ytimg.com/vi/ICbU6zAKtqQ/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=ICbU6zAKtqQ"
+  },
+  {
+    "title": "MultiProcessing in Python | Python Tutorial - Day #98",
+    "thumbnail": "https://i.ytimg.com/vi/zGe-9LfnAaA/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=zGe-9LfnAaA"
+  },
+  {
+    "title": "Exercise 11: Solution + Shoutouts - Desktop Notification System | Python Tutorial - Day #99",
+    "thumbnail": "https://i.ytimg.com/vi/18vZnLqXMoM/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=18vZnLqXMoM"
+  },
+  {
+    "title": "Conclusion and Where to go from here | Python Tutorial - Day #100",
+    "thumbnail": "https://i.ytimg.com/vi/5Pz8WGiMJ_c/maxresdefault.jpg",
+    "channel_name": "CodeWithHarry",
+    "video_url": "https://www.youtube.com/watch?v=5Pz8WGiMJ_c"
+  }
+]
